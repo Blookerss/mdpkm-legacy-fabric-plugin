@@ -1,10 +1,9 @@
-import CustomLoader from './custom-loader';
+import FabricLegacy from './fabric-legacy';
 LocalStrings.setContent({
     en: {
-        'app.mdpkm.common.loaders.custom_example': 'Custom Loader',
-
-        'app.plugin.example_plugin.toast.test_message': 'This is a message from the mdpkm Example Plugin!'
+        'app.mdpkm.common.loaders.fabric_legacy': 'Legacy Fabric',
+        'app.mdpkm.common.loaders.fabric_legacy.summary': 'Legacy Fabric is a project based on the Fabric Project.\nOne of its priorities is to support as many legacy versions as possible.'
     }
 });
 
-await API.add('CustomLoader', new CustomLoader());
+await API.add('FabricLegacy', new FabricLegacy());

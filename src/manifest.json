@@ -1,5 +1,5 @@
 {
-    "id": "mdpkm-example-plugin",
-    "name": "mdpkm Example Plugin",
+    "id": "mdpkm-legacy-fabric-plugin",
+    "name": "Legacy Fabric for mdpkm",
     "version": "1.0.0"
 }

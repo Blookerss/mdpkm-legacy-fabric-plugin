@@ -1,9 +1,9 @@
 {
-    "name": "mdpkm-example-plugin",
+    "name": "mdpkm-legacy-fabric-plugin",
     "author": "Blookerss (https://github.com/Blookerss)",
     "description": "Example plugin for mdpkm!",
-    "repository": "github:Blookerss/mdpkm-example-plugin",
-    "homepage": "https://github.com/Blookerss/mdpkm-example-plugin#readme",
+    "repository": "github:Blookerss/mdpkm-legacy-fabric-plugin",
+    "homepage": "https://github.com/Blookerss/mdpkm-legacy-fabric-plugin#readme",
     "license": "MIT",
     "version": "1.0.0",
     "scripts": {
