@@ -1,9 +1,5 @@
-# mdpkm Example Plugin
-An official working example for [mdpkm](https://github.com/Blookerss/mdpkm)'s plugin system.<br/>
-This is a GitHub template, click 'Use this template'!<br/>
-This is still a work in progress, make sure to check for new additions!<br/><br/>
+# Legacy Fabric for mdpkm
+Simply adds support for the Legacy Fabric Loader.<br/>
+This is **not** Fabric **for 1.14 and upwards**, this is an **unofficial** fork of Fabric **for 1.13.2 and below**.<br/><br/>
 
-## Contained Examples
-| Example       | Summary                        |
-|---------------|--------------------------------|
-| Custom Loader | Adds a Custom Loader to mdpkm! |
+### Visit the [Legacy Fabric website](https://legacyfabric.net) for more information.
